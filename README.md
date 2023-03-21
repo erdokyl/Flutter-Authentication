@@ -1,3 +1,3 @@
 # Flutter-Authentication
 
-<img src="./github/github.png" alt="Home" width="500">
+<img src="./github/github.png" alt="Home" width="700">
